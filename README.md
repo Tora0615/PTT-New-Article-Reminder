@@ -2,9 +2,9 @@
 
 將爬蟲結合 Line Notify，實現自動化訊息通知。
 
-
 本程式預設會定期爬取 PTT 的 codejob 版，看是否有新的案子可以接。
 
+![](./screenshot.jpg)
 
 ### 如何使用 ? 
 去 Line Notify 申請權杖填入後，直接執行就好
