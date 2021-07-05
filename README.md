@@ -4,7 +4,7 @@
 
 本程式預設會定期爬取 PTT 的 codejob 版、soho 版，看是否有新的文章。
 
-![](./screenshot.jpg)
+![](pic/01.jpg)
 
 ### 如何使用 ? 
 
@@ -20,8 +20,8 @@
 ### 注意事項
 
 1. 有多少看板要追蹤，就要設定對應數量的token、url、checkThisBoard函式
-![](02.jpg)
-![](03.jpg)
+![](pic/02.jpg)
+![](pic/03.jpg)
 
 2. PTT 八卦版 ( gossiping ) 或其他有 18 歲限制的板，沒辦法直接使用，需要使用 session & playload 等。改天有寫再更新上來。
 
