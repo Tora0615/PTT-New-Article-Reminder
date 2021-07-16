@@ -1,5 +1,7 @@
 # PTT New Article Reminder
 
+**有BUG，有空再修XD**
+
 將爬蟲結合 Line Notify，實現自動化訊息通知。
 
 本程式預設會定期爬取 PTT 的 codejob 版、soho 版，看是否有新的文章。
