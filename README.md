@@ -1,6 +1,8 @@
 # PTT New Article Reminder
 
+:::warning
 **有BUG，有空再修XD**
+:::
 
 將爬蟲結合 Line Notify，實現自動化訊息通知。
 
